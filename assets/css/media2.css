@@ -1,0 +1,727 @@
+@media screen and (max-width:350px) {
+    .header-contact {
+        bottom: -100px;
+        left: -30px;
+
+    }
+    .header-contact h2 {
+        font-size: 8px !important;
+    }
+
+    .header-contact p {
+        width: 70%;
+        font-size: 6px;
+        margin-bottom: 2px;
+    }
+    .hidden-btn{
+        display: none;
+    }
+    .Trending .card{
+        width: 100% !important;
+        margin: 0 auto !important;
+    }
+    .col-6{
+        width: 90% !important;
+    }
+
+    /* big big-banner */
+    .big-banner{
+        margin-top: 3rem !important;
+    }
+    .banner-contant{
+        position: absolute;
+        bottom: 20%;
+        left: 50px;
+    }
+    .banner-contant a{
+        font-size: 14px;
+   
+    }
+    .banner-contant button{
+        font-size: 10px;
+
+    }
+    /* sale of */
+    .sale-off .card{
+        margin: 0 auto;
+        width: 100% !important;
+    }
+
+    
+    
+    /* page 3 */
+    .blog-post .card{
+        width: 100% !important;
+    }
+    
+
+           /* login pages */
+           .basic-login{
+            padding : 20px;
+            border: solid 2px #eaedff;
+        
+        }
+        .basic-login h3{
+            margin-bottom: 20px !important;
+            font-size:22px ;
+    
+        }
+
+    /* contact page */
+ 
+    .contact-social-media ul li {
+        margin-right: 30px;
+    }
+    .contact-area .left-side .description{
+      font-size: 14px !important;
+      margin-right: 0px !important;
+      margin-top: 10px !important;
+      margin-bottom: -15px !important;
+      
+      
+    }
+    
+
+    /* blog */
+    .sidebar{
+        position: fixed;
+        margin-left: 0px !important;
+        
+    }
+    .blog .blog-data{
+        width: 100% !important;
+    }
+
+    .blog .sidebar{
+        width: 60% !important;
+    }
+    .sidebar .list-links h5 a::after{
+        content: "";
+    }
+
+    .blog .sidebar a{
+        font-size: 8px !important;
+ 
+    }
+    .blog .sidebar h6{
+        font-size: 8px !important;
+    }
+
+    .blog .sidebar span{
+        font-size:7px !important;
+    }
+    .Recent_Comments p{
+        font-size: 7px !important;
+    }
+    .big-blog-title,.big-blog-title a{
+        font-size: 10px !important;
+        color: black !important;
+    }
+    .sidebar .list-links h5 a{
+        font-size: 10px !important;
+    }
+    .sidebar .img-small-blog img{
+        width: 40px !important;
+        height: 40px !important;
+    }
+
+    .sidebar .stars i{
+        font-size: 10px;
+    }
+    .sidebar .data-blog{
+        margin-top: -5px;
+    }
+    .sidebar .data-blog .stars{
+        margin-top: -15px;
+    }
+
+      /* shop page */
+        .shop-product .sidebar{
+     
+            width: 65% !important;
+         }
+    
+         .shop-product .size .size-value{
+            width: 1.3rem;
+            height: 1.3rem;
+    
+        }
+        
+       .shop-product .size a{
+            font-size: 10px ;
+    
+        }
+        .shop-product .sidebar h4{
+            font-size: 15px !important;
+            font-weight: 600;
+        }
+        .shop-product .sidebar h5{
+            font-size: 10px;
+        }
+        .shop-product .sidebar h5 a{
+            font-size: 11px !important;
+        }
+        .shop-product .sidebar .small-card img{
+            margin-right: 0.3rem !important;
+        }
+        .shop-product .sidebar .stars i{
+            font-size: 9px;
+        }
+
+        .shop-product .card{
+            width: 120% !important;
+
+        }
+
+        .container-product{
+            display:  block !important ;
+        }
+       
+        .details-product .stars{
+            margin-right: 0.5rem !important;
+
+        }
+        .person-coment img{
+            width: 3rem;
+            height: 3rem;
+            margin-right: 1rem;
+        }
+
+        .person-coment h5{
+            font-size: 12px !important;
+        }
+    
+        .person-coment p{
+            font-size: 9px;
+        }
+    
+        .person-coment .comment-date{
+            font-size: 10px !important;
+        }
+        .person-coment p{
+            height: 25px;
+            overflow: hidden;
+        }
+
+        .additional-product-information{
+            padding-left: 0%;
+        }
+        .additional-product-information button{
+            font-size: 7px;
+        }
+  
+}
+
+
+@media screen and (min-width:350px) and (max-width: 468px){
+    .header-contact {
+        bottom: -100px;
+        left: -30px;
+
+    }
+    .header-contact h2 {
+        font-size: 10px !important;
+    }
+
+    .header-contact p {
+        width: 70%;
+        font-size: 8px;
+        margin-bottom: 2px;
+    }
+    .hidden-btn{
+        display: none;
+    }
+
+    .Trending .card{
+        width: 100% !important;
+        margin: 0 auto !important;
+    }
+    /* big-banner */
+    .big-banner{
+        margin-top: 3rem !important;
+    }
+    .banner-contant{
+        position: absolute;
+        bottom: 25%;
+        left: 45px;
+    }
+    .banner-contant a{
+        font-size: 16px;
+   
+    }
+    .banner-contant button{
+        font-size: 12px;
+
+    }
+    
+    /* page 3 */
+    .blog-post .card{
+        width: 100% !important;
+    }
+       /* login pages */
+       .basic-login{
+        padding : 20px;
+        border: solid 2px #eaedff;
+    
+    }
+    .basic-login h3{
+        margin-bottom: 20px !important;
+        font-size:22px ;
+
+    }
+
+      /* sale of */
+      .sale-off .card{
+        margin: 0 auto;
+        width: 10rem !important;
+    }
+
+    /* blog pages */
+
+
+    .sidebar{
+        position: fixed;
+        margin-left: 0px !important;
+        
+    }
+    .blog .blog-data{
+        width: 100% !important;
+    }
+
+    .blog .sidebar{
+        width: 55% !important;
+    }
+    .sidebar .list-links h5 a::after{
+        content: "";
+    }
+
+    .blog .sidebar a{
+        font-size: 10px !important;
+ 
+    }
+    .blog .sidebar h6{
+        font-size: 10px !important;
+    }
+
+    .blog .sidebar span{
+        font-size: 9px !important;
+    }
+    .Recent_Comments p{
+        font-size: 9px !important;
+    }
+    .big-blog-title,.big-blog-title a{
+        font-size: 15px !important;
+        color: black !important;
+    }
+    .sidebar .list-links h5 a{
+        font-size: 14px !important;
+    }
+    .sidebar .img-small-blog img{
+        width: 60px !important;
+        height: 60px !important;
+    }
+
+        /* shop page */
+        .shop-product .sidebar{
+     
+            width: 55% !important;
+         }
+    
+         .shop-product .size .size-value{
+            width: 1.7rem;
+            height: 1.7rem;
+    
+        }
+        
+       .shop-product .size a{
+            font-size: 14px ;
+    
+        }
+        .shop-product .sidebar h4{
+            font-size: 17px !important;
+            font-weight: 600;
+        }
+        .shop-product .sidebar h5{
+            font-size: 14px;
+        }
+        .shop-product .sidebar h5 a{
+            font-size: 11px !important;
+        }
+        .shop-product .sidebar .small-card img{
+            margin-right: 0.5rem !important;
+        }
+        .shop-product .sidebar .stars i{
+            font-size: 10px;
+        }
+    
+        .shop-product .card{
+            width: 100% !important;
+        }
+
+
+
+
+        .container-product{
+            display:  block !important ;
+        }
+
+        .person-coment p{
+            height: 35px;
+            overflow: hidden;
+        }
+
+        .additional-product-information{
+            padding-left: 0%;
+        }
+        .additional-product-information button{
+            font-size: 10px;
+        }
+  
+}
+
+@media screen and (min-width:468px) and  (max-width: 576px){
+    .header-contact {
+        bottom: -70px;
+        left: -30px;
+
+    }
+ 
+
+
+    .header-contact h2 {
+        font-size: 12px !important;
+    }
+
+    .header-contact p {
+        width: 70%;
+        font-size: 10px;
+    }
+    
+    .btn{
+      display: none !important;
+    }
+    .Trending .card{
+        width: 14rem !important;
+        margin: 0 auto !important;
+    }
+ /* big-banner */
+    .big-banner{
+        margin-top: 3rem !important;
+    }
+    .banner-contant{
+        position: absolute;
+        bottom: 35%;
+        left: 45px;
+    }
+    .banner-contant a{
+        font-size: 18px;
+   
+    }
+    .banner-contant button{
+        display: block !important;
+        font-size: 14px;
+
+    }
+    /* sale of */
+    .sale-off .card{
+        margin: 0 auto;
+    }
+
+
+      /* page 3 */
+      .blog-post .card{
+        width: 90% !important;
+        margin: 0 auto !important;
+    }
+
+       /* login pages */
+       .basic-login{
+        padding : 20px;
+        border: solid 2px #eaedff;
+    
+    }
+    .basic-login h3{
+        margin-bottom: 20px !important;
+        font-size:22px ;
+
+    }
+
+
+
+    .sidebar{
+        position: fixed;
+        margin-left: 0px !important;
+        
+    }
+    .blog .blog-data{
+        width: 100% !important;
+    }
+
+    .blog .sidebar{
+        width: 50% !important;
+    }
+    .sidebar .list-links h5 a::after{
+        content: "";
+    }
+
+    .btn{
+        display: inherit !important;
+    }
+    
+    /* shop page */
+    .shop-product .sidebar{
+     
+        width: 50% !important;
+     }
+
+     .shop-product .size .size-value{
+        width: 1.7rem;
+        height: 1.7rem;
+
+    }
+    
+   .shop-product .size a{
+        font-size: 14px ;
+
+    }
+    .shop-product .sidebar h4{
+        font-size: 17px !important;
+        font-weight: 600;
+    }
+    .shop-product .sidebar h5{
+        font-size: 14px;
+    }
+    .shop-product .sidebar h5 a{
+        font-size: 11px !important;
+    }
+    
+    /* .shop-product .card{
+        width: 100% !important;
+    } */
+    .shop-product .product .wid .card{
+        width: 11rem !important;
+        /* margin-right: 1rem; */
+
+     }
+
+
+     .container-product{
+        display:  block !important ;
+    }
+    .additional-product-information{
+        padding-left: 10%;
+    }
+    
+}
+
+@media screen and (min-width:577px) and (max-width: 768px){
+    .header-contact {
+            bottom: -30px;
+            left: -20px;
+
+        }
+    
+    
+        .header-contact h2 {
+            font-size: 18px !important;
+        }
+    
+        .header-contact p {
+            width: 65%;
+            font-size: 12px;
+        }
+        .hidden-btn{
+            display: none;
+        }
+
+        .item1-under-heaedr h5{
+            position: absolute;
+            bottom: 10%;
+            left: 10%;
+        }
+        .item1-under-heaedr h5 a{
+            font-size: 10px;
+        }
+        .discover-btn{
+            font-size: 8px;
+        }
+        .item1-under-heaedr .discover-btn{
+            position: absolute;
+            bottom: -30%;
+            left: 10%;
+        }
+
+
+           /* page 3 */
+      .blog-post .card{
+        width: 16rem !important;
+        margin: 0 auto !important;
+    }
+       /* login pages */
+       .basic-login{
+        padding : 40px;
+        border: solid 2px #eaedff;
+    
+    }
+
+
+    /* blog */
+    .sidebar{
+        position: fixed;
+        margin-left: 0px !important;
+        
+    }
+    .blog .blog-data{
+        width: 100% !important;
+    }
+    .blog .sidebar{
+        width: 45% !important;
+    }
+
+   
+   
+    .Recent_Comments p{
+        font-size: 8px;
+    }
+    .big-blog-title,.big-blog-title a{
+        font-size: 15px !important;
+    } 
+    .sidebar .list-links h5 a::after{
+        content: "";
+    }
+
+      /* shop page */
+      .shop-product .sidebar{
+     
+        width: 45% !important;
+     }
+
+     .shop-product .product .wid .card{
+        width: 8rem !important;
+        /* margin-right: 1rem; */
+
+     }
+
+
+
+
+
+     .container-product{
+        display:  block !important ;
+    }
+
+    .additional-product-information{
+        padding-left: 12%;
+    }
+
+    
+}
+
+@media screen and (min-width:769px) and (max-width: 992px){
+    .header-contact{
+        bottom: 10px;
+   
+    }
+    .header-contact h2{
+    font-size: 25px !important;
+    }
+    .header-contact p{
+        width: 65%;
+    }
+    .blog-post .card{
+        width: 20rem !important;
+        margin: 0 auto !important;
+    }
+     /* big-banner */
+     .big-banner{
+        margin-top: 3rem !important;
+    }
+    .banner-contant{
+        position: absolute;
+        bottom: 25%;
+        left: 45px;
+    }
+    .banner-contant a{
+        font-size: 16px;
+   
+    }
+    .banner-contant button{
+        font-size: 12px;
+
+    }
+    /* login pages */
+    .basic-login{
+        padding : 40px;
+        border: solid 2px #eaedff;
+    
+    }
+    /* contact page */
+    .contact-area .left-side .description{
+        font-size: 12px;
+    }
+    .data-section h6{
+        font-size: 14px !important;
+    }
+    .data-section span{
+        font-size: 14px !important;
+
+    }
+    .contact-social-media{
+        margin-top: 1rem;
+    }
+
+    .sidebar{
+        position: fixed;
+        margin-left: 0px !important;
+        
+    }
+    .blog .blog-data{
+        width: 100% !important;
+    }
+    .sidebar .list-links h5 a::after{
+        content: "";
+    }
+
+    /* shop page */
+    .shop-product .sidebar{
+     
+        width: 35% !important;
+    }
+    .shop-product .product .wid .card{
+        width: 11rem !important;
+        /* margin-right: 1rem; */
+
+     }
+
+     .container-product{
+        display:  block !important ;
+    }
+
+    
+
+}
+
+@media screen and (min-width: 993px) and  (max-width: 1200px){
+    .header-contact{
+        bottom: 90px;
+        left: 2%;
+  
+        }
+        .header-contact h2{
+            font-size: 25px !important;
+            }
+
+        .header-contact p{
+            width: 65%;
+        }
+        .blog-post .card{
+            width: 16rem !important;
+            margin: 0 auto !important;
+        }
+        .shop-product .product .wid .card{
+            width: 11rem !important;
+            /* margin-right: 1rem; */
+    
+         }
+   
+}
